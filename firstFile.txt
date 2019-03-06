@@ -1,3 +1,4 @@
 This file will be modified both in master and in a feature branch.
 
 A change in master.
+The second change in master.
